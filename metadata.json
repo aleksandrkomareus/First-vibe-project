@@ -1,0 +1,5 @@
+{
+  "name": "First vibe project",
+  "description": "A dark-themed social media feed application featuring stories, posts, and a bottom navigation bar.",
+  "requestFramePermissions": []
+}
